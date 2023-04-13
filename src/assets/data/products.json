@@ -1,0 +1,42 @@
+[
+  {
+    "logo": "assets/images/product1.png",
+    "title": "Product One",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product2.png",
+    "title": "Product Two",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product3.png",
+    "title": "Product Three",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product4.png",
+    "title": "Product Four",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product5.png",
+    "title": "Product Five",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product6.png",
+    "title": "Product Six",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product7.png",
+    "title": "Product Seven",
+    "link": "#"
+  },
+  {
+    "logo": "assets/images/product8.png",
+    "title": "Product Eight",
+    "link": "#"
+  }
+]
